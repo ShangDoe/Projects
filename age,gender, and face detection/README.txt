@@ -1,0 +1,3 @@
+This project involves creating a real-time gender and age classification system using deep learning models and YOLOv8 for face detection. Created 2 models for classifying age and gender and used transfer learning for training them, and both achieved a decent accuracy of 98% on testing dataset.
+
+A Streamlit application is built to capture live video from a webcam, detect faces using the YOLOv8 model, and pass the detected faces to the gender and age classification models for real-time predictions
